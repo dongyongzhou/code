@@ -10,7 +10,7 @@ use warnings;
 # user authentication message is needed.
 
 # This is the sendMail URL, with API provided by server.
-my $url = 'https://qrd-dm.qualcomm.com/sendMail';
+my $url = 'https://xxx/sendMail';
 
 # param
 my $from = '';
