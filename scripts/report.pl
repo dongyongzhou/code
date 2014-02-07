@@ -32,4 +32,5 @@ my $response = $ua->post($url,
 printf "GG %s\n", $response->status_line;
 my $response_content = $response->content();
 print "GG $response_content\n";
+print "end."
 
